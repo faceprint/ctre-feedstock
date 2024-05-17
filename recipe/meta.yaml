@@ -39,7 +39,7 @@ test:
 
 
 about:
-  home: https://github.com/hanikadot/compile-time-regular-expressions
+  home: https://github.com/hanickadot/compile-time-regular-expressions
   summary: 'Compile Time Regular Expression in C++'
   description: |
     Fast compile-time regular expressions with support for
